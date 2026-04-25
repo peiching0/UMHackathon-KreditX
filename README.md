@@ -1,7 +1,7 @@
 # UMHackathon-KreditX
 AI-powered credit scoring and loan decision platform for unbanked rural micro-entrepreneurs.\
 
-[KreditXPitchingVideo](https://drive.google.com/file/d/1MqCzs-HrWMe_mWy-tMGyo1RHqW7n5Gsb/view?usp=sharing)
+[KreditXPitchingVideo](https://drive.google.com/file/d/1h_tN11kbLLjqcAWaPJo-NBMGANpzSXEo/view?usp=sharing)
 
 # Tech Stack:
 •Frontend: Streamlit\
